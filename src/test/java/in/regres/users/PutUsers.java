@@ -1,11 +1,10 @@
 package in.regres.users;
 
-import in.regres.UserPojo;
+import in.regres.model.UserPojo;
 import in.regres.testbase.TestBase;
 import io.restassured.response.Response;
 import org.junit.Test;
 
-import static in.regres.UserPojo.getRandomString;
 import static io.restassured.RestAssured.given;
 
 /* Created

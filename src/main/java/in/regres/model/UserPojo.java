@@ -1,4 +1,4 @@
-package in.regres;
+package in.regres.model;
 
 /* Created
  * by Lamee */
